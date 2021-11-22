@@ -17,8 +17,8 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        sans: ["Playfair Display", "sans-serif"],
-        serif: ["Open Sans", "sans-serif"],
+        serif: ["Playfair Display", "sans-serif"],
+        sans: ["Open Sans", "sans-serif"],
         mono: ["Roboto", "sans-serif"],
       },
     },

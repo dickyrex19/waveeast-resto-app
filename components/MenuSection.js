@@ -3,14 +3,16 @@ import MenuItems from "./MenuItems";
 export default function MenuSection() {
   return (
     <>
-      <h1 className="mt-8 sm:text-5xl text-4xl font-bold">Our Top Menu</h1>
-      <p className="mt-5 font-serif">
+      <h1 className="mt-8 sm:text-5xl text-4xl font-serif font-bold">
+        Our Top Menu
+      </h1>
+      <p className="mt-5 font-sans">
         Some of our best-seller menus our customers love! Premium dishes are
         served by the best and certified chefs in town.
       </p>
       <a
         href="#"
-        className="mt-6 px-8 py-3 border-2 font-serif hover:bg-white hover:text-gray-500"
+        className="mt-6 px-8 py-3 border-2 font-sans hover:bg-white hover:text-gray-500"
       >
         View More
       </a>
